@@ -1,0 +1,8 @@
+#Virtual environment
+pvenv/
+#Temp files
+*.pyc
+__pychace__/
+#Personal configuration files
+.vscode/
+.idea/
