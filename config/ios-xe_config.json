@@ -1,0 +1,18 @@
+{
+    "restconf": {
+        "url": "https://devnetsandboxiosxe.cisco.com/",
+        "port": 443,
+        "username": "admin",
+        "password": "C1sco12345"
+    },
+    "netconf": {
+        "host": "devnetsandboxiosxe.cisco.com",
+        "port": 830,
+        "username": "admin",
+        "password": "C1sco12345"
+    },
+    "grpc": {
+        "host": "devnetsandboxiosxe.cisco.com",
+        "port": 57500
+    }
+}
